@@ -48,7 +48,7 @@ DI via **GetIt** in `core/di/di.dart`.
 Base URL:
 ```text
 https://dushkaburger.com/wp-json/
-
+```
 
 Auth:
 - Basic Auth (wired through Dio interceptor)
@@ -62,7 +62,7 @@ Auth:
 ```bash
 flutter pub get
 flutter run
-
+```
 If localization generation fails:
 
 flutter gen-l10n
