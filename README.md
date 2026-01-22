@@ -93,31 +93,6 @@ Totals can become incorrect (looks like addons are multiplied twice).
 
 This keeps the flow correct and avoids showing wrong pricing.
 
----
-
-## 📸 Screenshots
-
-Put screenshots in: `README_assets/`
-
-Suggested names:
-- `README_assets/menu_en.png`
-- `README_assets/details_en.png`
-- `README_assets/cart_en.png`
-- `README_assets/menu_ar.png`
-- `README_assets/details_ar.png`
-- `README_assets/cart_ar.png`
-
-GitHub will render them automatically:
-
-### EN
-![Menu EN](README_assets/menu_en.png)
-![Details EN](README_assets/details_en.png)
-![Cart EN](README_assets/cart_en.png)
-
-### AR (RTL)
-![Menu AR](README_assets/menu_ar.png)
-![Details AR](README_assets/details_ar.png)
-![Cart AR](README_assets/cart_ar.png)
 
 ---
 
